@@ -1,0 +1,21 @@
+[{
+        "name": "Laboratorio de Experimentación y Prototipado",
+        "code": "DNO1032",
+        "about": "Curso teórico-práctico que permite al estudiante aplicar el prototipado como una herramienta integral en el proceso de diseño, poniendo en práctica habilidades para tangibilizar ideas e incorporar información a través del uso de prototipos, incorporando como base la sustentabilidad y como objetivo final el lograr un nivel profesional en la fabricación."
+    },
+    {
+        "name": "Introducción a la Economía",
+        "code": "EAE105A",
+        "about": "El curso introduce al estudiante en el ámbito de la economía, entregando una descripción del método de análisis de los problemas económicos y de las formas como las sociedades se organizan para resolverlos. Se divide en cuatro capítulos de carácter introductorio: el problema económico, teoría microeconómica, teoría macroeconómica y ética y economía."
+    },
+    {
+        "name": "La experiencia de las artes",
+        "code": "MUC960",
+        "about": "Curso teórico y práctico, que introduce a los alumnos en el conocimiento teórico y la experiencia concreta de algunas de las múltiples expresiones artísticas en el mundo de hoy: la ópera, la música sinfónica, el teatro, el cine, el ballet, las artes visuales, la arquitectura y la poesía, con una introducción a la Estética. Incluye la asistencia totalmente gratuita a siete actividades en distintos espacios artísticos de Santiago. Se evaluará por medio de trabajos críticos sometidos a la evaluación de pares y un trabajo final en grupo. En contexto de pandemia las clases teóricas y las experiencias prácticas se impartirán online."
+    },
+    {
+        "name": "Introducción a la Geometría",
+        "code": "MAT1304",
+        "about": "Este curso presenta una introducción a la geometría Euclidiana y Cartesiana en el plano y el espacio, desde los axiomas de Euclides y sus teoremas básicos, hasta el punto de vista Cartesiano basado en raíces de polinomios. Para ello se contemplan, tanto clases como ayudantías, donde se promueve la participación activa y constructiva del estudiante, así como la habilidad de jugar con conceptos matemáticos y pensar matemáticas con otros. Las evaluaciones están orientadas a la solución creativa de problemas matemáticos, así como a adoptar el estilo de escritura de la disciplina."
+    }
+]
